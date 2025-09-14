@@ -1,16 +1,37 @@
-## Hi there 👋
+Olá, eu sou Vinicius Lima 👋
 
-<!--
-**Vinicius170495/Vinicius170495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas | Foco em Segurança da Informação  
+💻 Transformando projetos acadêmicos em experiências práticas  
+🌐 Apaixonado por desenvolvimento web, criptografia e testes de vulnerabilidades  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Tecnologias que domino
+
+- Linguagens: Pyton, JavaScript  
+- Banco de Dados: SQL (MySQL), NoSQL (MongoDB)  
+- Ferramentas de Segurança: Wireshark, OWASP ZAP, Criptografia AES  
+- Controle de Versão: Git, GitHub  
+
+---
+
+• Projetos em Destaque
+
+ 1. Sistema de Controle de Acesso
+Aplicação web com autenticação e autorização segura, usando Node.js, MongoDB e JavaScript.  
+
+ 2. Simulação de Ataques de Phishing
+Laboratório de testes para identificar vulnerabilidades de engenharia social.  
+
+ 3. Aplicativo de Gestão de Senhas
+Sistema seguro de armazenamento de senhas com criptografia AES em Python.  
+
+ 4. Monitoramento de Rede
+Scripts em Python e análise de pacotes com Wireshark para detectar atividades suspeitas.  
+
+ 5. Avaliação de Vulnerabilidades em Aplicações Web
+Testes de penetração (SQLi, XSS) usando OWASP ZAP com relatório de mitigação.  
+
+---
+
+✨ *Objetivo:* Provar minhas habilidades mostrando projetos reais que complementam meu LinkedIn.
